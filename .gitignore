@@ -1,5 +1,5 @@
 ./dags/__pycache__*
-./dataset_test
+dataset_test
 credentials
 
 docker-compose.yaml
