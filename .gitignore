@@ -1,0 +1,8 @@
+./dags/__pycache__*
+credentials
+
+docker-compose.yaml
+.env
+Pipfile*
+.coverage
+.pytest_cache
